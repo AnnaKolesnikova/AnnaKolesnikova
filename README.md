@@ -1,6 +1,7 @@
-## Hi there, my name is Anna 👩‍💻
+## Hi there, I'm Anna 👩‍💻
 
-I'm a Front-end engineer and looking now for new job opportunities!
+Front-end engineer, focusing on Angular2+. And now I'm looking for new job opportunities.
+Contact me!
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-ilinchik-18a574b6/)](https://www.linkedin.com/in/anna-ilinchik-18a574b6/)
 
