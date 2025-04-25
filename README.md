@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm Anna!
 
-🎯 I'm a Front-End Engineer with a passion for building clean, responsive, and user-friendly interfaces.  
-🛠️ Focused on Angular 2+ and experienced in building scalable web apps.  
-🔍 Currently open to new job opportunities — let's connect!
+🎯 Front-End Engineer passionate about crafting clean, responsive, and intuitive user experiences.
+🛠️ Specializing in Angular 2+, with hands-on experience building scalable and maintainable web applications.
+💼 Currently open to new opportunities — feel free to reach out and let's connect!
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-ilinchik-18a574b6/)](https://www.linkedin.com/in/anna-ilinchik-18a574b6/)
 
